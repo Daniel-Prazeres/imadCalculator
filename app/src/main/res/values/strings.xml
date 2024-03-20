@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="etNum1">Enter Num1</string>
+    <string name="etNum2">Enter Num2</string>
+    <string name="btnAdd">+</string>
+    <string name="btnSub">-</string>
+    <string name="btnMul">*</string>
+    <string name="btnDiv">/</string>
+    <string name="tvDisplay"> </string>
+</resources>
